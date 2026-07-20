@@ -30,8 +30,6 @@ The goal of this project was to replace manual time tracking with a simple digit
 
 ## Development progress
 
-### Early prototype
-
 <img src="/Screenshots/Wersja1/Login.png" width="240" height="400"><img src="/Screenshots/Wersja1/Dashboard.png" width="240" height="400"><img src="/Screenshots/Wersja1/AddHours.png" width="240" height="400">
 
 ## Project structure
