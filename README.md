@@ -27,19 +27,19 @@ The goal of this project was to replace manual time tracking with a simple digit
 ## Screenshots
 
 ### Login
-![login Screenshot](/Screenshots/Wersja3/login.png)
+![login Screenshot]("/Screenshots/Wersja 3/login.png")
 ### Dashboard
-![dashboard Screenshot](/Screenshots/Wersja3/dashboard1.png)
+![dashboard Screenshot]("/Screenshots/Wersja 3/dashboard1.png")
 ### Summary
-![summary Screenshot](/Screenshots/Wersja3/dashboard3.png)
+![summary Screenshot]("/Screenshots/Wersja 3/dashboard3.png")
 
 ## Development progress
 
 ### Early prototype
 
-![early](/Screenshots/Wersja1/Login.png)
-![early](/Screenshots/Wersja1/Dashboard.png)
-![early](/Screenshots/Wersja1/AddHours.png)
+![early](/Screenshots/Wersja 1/Login.png)
+![early](/Screenshots/Wersja 1/Dashboard.png)
+![early](/Screenshots/Wersja 1/AddHours.png)
 
 ## Project structure
 
